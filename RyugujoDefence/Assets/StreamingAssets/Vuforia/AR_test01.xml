@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ray" size="0.050000 0.040593" />
+    <ImageTarget name="Jellyfish" size="0.050000 0.040253" />
+    <ImageTarget name="Shark" size="0.050000 0.040774" />
+    <ImageTarget name="Ryugujo" size="0.050000 0.040764" />
+  </Tracking>
+</QCARConfig>
